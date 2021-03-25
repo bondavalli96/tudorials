@@ -12,6 +12,18 @@ from decimal import Decimal
 # to get more than just the limit of 1000 candles. It will be useful
 # in case we want to backtest our strategies over a longer period
 
+
+
+#PORCO DIOOOOOOOOOOOOOOOOOOOOOOOOOO MOOOOOOOOOOOOOOOOOOOOOOOOOOON
+
+
+
+
+
+
+
+
+
 request_delay = 1000
 
 class Binance:
